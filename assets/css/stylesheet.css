@@ -2,8 +2,12 @@ h1 {
     text-align: center;
     color: blueviolet;
 }
-img {
-     height: 500px;
-  width: 300px;
-
+. about {
+    text-align: center;
+}
+.navBar {
+    border: 2px solid black;
+}
+.nav-item {
+    border: 2px solid black;
 }
